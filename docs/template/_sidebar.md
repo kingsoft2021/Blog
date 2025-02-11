@@ -1,0 +1,8 @@
+- [首页](/)
+- [板子](template/)
+    - [modint](template/modint.md)
+    - [缩点](template/tjsd.md)
+    - [边双](template/tjbs.md)
+    - [点双](template/tjds.md)
+    - [快读](template/fastio.md)
+    - [进阶快读](template/sfastio.md)
