@@ -6,3 +6,6 @@
     - [点双](template/tjds.md)
     - [快读](template/fastio.md)
     - [进阶快读](template/sfastio.md)
+    - [快速幂](template/qpow.md)
+    - [珂朵莉树](template/odt.md)
+    - [矩阵](template/matrix.md)
