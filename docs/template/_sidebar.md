@@ -10,4 +10,5 @@
     - [珂朵莉树](template/odt.md)
     - [矩阵](template/matrix.md)
     - [主席树](template/zxt.md)
+    - [AC自动机](template/ACzdj.md)
 - [收藏](favorites/)
