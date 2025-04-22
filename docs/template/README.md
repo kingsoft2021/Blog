@@ -1,1 +1,1 @@
-# System32's Templates<!-- {docsify-ignore-all} -->
+# Templates<!-- {docsify-ignore-all} -->
