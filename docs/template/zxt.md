@@ -1,3 +1,5 @@
+## 可持久化线段树<!-- {docsify-ignore-all} -->
+
 ```cpp
 struct node {
     int ls, rs, val;

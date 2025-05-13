@@ -1,3 +1,5 @@
+## 塔尖缩点<!-- {docsify-ignore-all} -->
+
 ```cpp
 int pe[N], low[N], dfn[N], dcnt, scnt, siz[N], id[N];
 vector<int> G[N];

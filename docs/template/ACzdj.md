@@ -1,3 +1,5 @@
+## AC自动机<!-- {docsify-ignore-all} -->
+
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;

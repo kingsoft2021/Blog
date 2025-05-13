@@ -1,3 +1,5 @@
+## 快读<!-- {docsify-ignore-all} -->
+
 ```cpp
 struct FSI {
 	template<typename T>

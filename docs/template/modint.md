@@ -1,3 +1,5 @@
+## modint<!-- {docsify-ignore-all} -->
+
 ```cpp
 struct modint {
     int val;

@@ -1,3 +1,5 @@
+## 边双<!-- {docsify-ignore-all} -->
+
 ```cpp
 stack<int> s;
 int low[N], dfn[N], dcnt, scnt;

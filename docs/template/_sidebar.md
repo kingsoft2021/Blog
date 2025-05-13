@@ -11,4 +11,5 @@
     - [矩阵](template/matrix.md)
     - [主席树](template/zxt.md)
     - [AC自动机](template/ACzdj.md)
+    - [ST表](template/st.md)
 - [收藏](favorites/)

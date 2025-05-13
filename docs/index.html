@@ -69,7 +69,16 @@
             // use your own css styles or the built in ones
             customStyle: true
             },
-            sidebarDisplayLevel: 1,
+            sidebarDisplayLevel: 4,
+            search: {
+                maxAge: 86400000,
+                paths: 'auto',
+                placeholder: '搜索',
+                noData: '找不到结果',
+                depth: 40,
+                hideOtherSidebarContent: false,
+                namespace: 'Café'
+            },
         }
     </script>
     <!-- Docsify v4 -->
@@ -95,6 +104,9 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons|Material+Icons+Outlined|Material+Icons+Two+Tone|Material+Icons+Round|Material+Icons+Sharp" rel="stylesheet"/>
     <script src="//unpkg.com/docsify-material-icons/dist/docsify-material-icons.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+    <script src="//vox.cab/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+    <link rel="stylesheet" href="//vox.cab/npm/docsify-sidebar-collapse/dist/sidebar-folder.min.css" />
+    <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
 </body>
 
 </html>

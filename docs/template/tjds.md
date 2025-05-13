@@ -1,3 +1,5 @@
+## 点双<!-- {docsify-ignore-all} -->
+
 ```cpp
 stack<int> s;
 bool vis[N];

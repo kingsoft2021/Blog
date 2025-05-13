@@ -1,3 +1,5 @@
+## 快速幂<!-- {docsify-ignore-all} -->
+
 ```cpp
 int qpow(int a, int b) {
     int res = 1;
