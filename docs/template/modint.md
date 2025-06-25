@@ -3,7 +3,9 @@
 ```cpp
 struct modint {
     int val;
-    modint() {}
+    modint() {
+        val = 0;
+    }
     modint(int _v) {
         val = _v;
     }
