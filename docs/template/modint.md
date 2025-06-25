@@ -35,7 +35,7 @@ struct modint {
         val -= a.val;
         val = val < 0 ? val + mod : val;
     }
-    int inv() {
+    modint inv() {
         int a = val, b = mod - 2, res = 1;
         while (b) {
             if (b & 1) {
@@ -44,7 +44,7 @@ struct modint {
             a = 1ll * a * a % mod;
             b >>= 1;
         }
-        return res;
+        return modint(res);
     }
 };
 ```
