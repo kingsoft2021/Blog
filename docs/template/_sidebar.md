@@ -12,4 +12,6 @@
     - [主席树](template/zxt.md)
     - [AC自动机](template/ACzdj.md)
     - [ST表](template/st.md)
+    - [KMP](template/kmp.md)
+    - [Z函数](template/z.md)
 - [收藏](favorites/)
