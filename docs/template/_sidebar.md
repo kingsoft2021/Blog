@@ -14,4 +14,5 @@
     - [ST表](template/st.md)
     - [KMP](template/kmp.md)
     - [Z函数](template/z.md)
+    - [Manacher](template/manacher.md)
 - [收藏](favorites/)
