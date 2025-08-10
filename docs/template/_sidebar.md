@@ -15,4 +15,5 @@
     - [KMP](template/kmp.md)
     - [Z函数](template/z.md)
     - [Manacher](template/manacher.md)
+    - [火车头](template/train.md)
 - [收藏](favorites/)
