@@ -1,4 +1,3 @@
 - [首页](/)
 - [板子](template/)
 - [收藏](favorites/)
-- [云剪切板](paste/)
