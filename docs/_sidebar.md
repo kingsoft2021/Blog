@@ -15,3 +15,4 @@
 - [Manacher](manacher.md)
 - [火车头](train.md)
 - [SAM](sam.md)
+- [FFT](fft.md)
