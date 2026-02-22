@@ -10,8 +10,7 @@ int tcnt, rt;
 
 void add(char c) {
     int p = rt;
-    rt = tcnt++;
-    sam[rt].len = sam[p].len + 1;
+    sam[rt = ++tcnt].len = sam[p].len + 1;
     while (p && !sam[p].nx[c - 'a']) {
         sam[p].nx[c - 'a'] = rt;
         p = sam[p].fa;
@@ -22,8 +21,7 @@ void add(char c) {
         if (sam[sam[p].nx[c - 'a']].len == sam[p].len + 1)
             sam[rt].fa = sam[p].nx[c - 'a'];
         else {
-            tcnt++;
-            sam[tcnt] = sam[sam[p].nx[c - 'a']];
+            sam[++tcnt] = sam[sam[p].nx[c - 'a']];
             sam[tcnt].len = sam[p].len + 1;
             sam[sam[p].nx[c - 'a']].fa = sam[rt].fa = tcnt;
             int tmp = sam[p].nx[c - 'a'];
